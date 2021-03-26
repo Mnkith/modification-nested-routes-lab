@@ -10,7 +10,7 @@ In this lab, we're going to be implementing nested resources for
 creating and editing songs through an artist.
 
 ## Instructions
-
+ 
 1. Using nested resources, set up routes and controller actions to
    create new `song` records through an `artist`. **Hint:** Don't forget
 to update the strong parameters.
